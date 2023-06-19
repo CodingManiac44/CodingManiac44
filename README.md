@@ -1,7 +1,6 @@
 # Md. Saidur Rahman
-
 ![Gmail](dev.saidur1@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
-![LinkedIn Connect](https://www.linkedin.com/in/md-saidur-rahman-3870a5a1/)<img src="https://komarev.com/ghpvc/?username=saidurNsu99" alt="saidur rahman" />
+![LinkedIn Connect](https://www.linkedin.com/in/md-saidur-rahman-3870a5a1/)<img src="https://komarev.com/ghpvc/?username=saidurNsu99" alt="saidur rahman"/>
 
 :wave: Hi there, My name is Md. Saidur Rahman.😀 I'm 28 years old, I'm a self-taught Software Engineer and data science Enthusiastic.
 I've profound knowledge in Windows, Java, JavaScript and Software Design Patterns with Software Development. 
