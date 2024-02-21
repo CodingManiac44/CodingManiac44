@@ -6,7 +6,7 @@ I've profound knowledge in Windows, Java, JavaScript and Software Design Pattern
 I have completed my Bachelors in CSE from the Department of Computer Science and Engineering of North south University, Dhaka, Bangladesh. 
 I'm interested in doing research on Block chain, Data science, Cyber Security, Cryptography, Machine Learning and Data Related Problem. 
 I love to work with new technologies and playing with Open Source Tools and Security Related Stuff.🤖
-Moreover, I am a Software Engineer in BJIT Group nad woked with brac it as a software engineer , in total i have about 4+ years of development experience.
+Moreover, I am a Software Engineer in touch and go group , malaysia(onsite), and woked with BJIT Group ,and brac it as a software engineer , in total i have about 4+ years of development experience.
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=saidurNsu99&theme=Cyberpunk&show_icons=true" alt="saidur rahman" />
