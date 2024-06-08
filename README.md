@@ -1,8 +1,8 @@
 # Md. Saidur Rahman
 <img src="https://komarev.com/ghpvc/?username=saidurNsu99" alt="saidur_rahman"/>
 
-:wave: Hi there, My name is Md. Saidur Rahman.😀 I'm 29 years old, I'm a self-taught Software Engineer and data science Enthusiastic.
-I've profound knowledge in Windows, Java, JavaScript and Software Design Patterns with Software Development. 
+:wave: Hi there, My name is Md. Saidur Rahman.😀 I'm 30 years old, I'm a self-taught Software Engineer and data science Enthusiastic.
+I've profound knowledge in  Java, spring-boot, JavaScript and Software Design Patterns with Software Development. 
 I have completed my Bachelors in CSE from the Department of Computer Science and Engineering of North south University, Dhaka, Bangladesh. 
 I'm interested in doing research on Block chain, Data science, Cyber Security, Cryptography, Machine Learning and Data Related Problem. 
 I love to work with new technologies and playing with Open Source Tools and Security Related Stuff.🤖
