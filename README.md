@@ -6,7 +6,7 @@ I've profound knowledge in  Java, spring-boot, Mysql, Microservice  architecture
 I have completed my Bachelors in CSE from the Department of Computer Science and Engineering of North south University, Dhaka, Bangladesh. 
 I'm interested in doing research on Block chain, Data science, Cyber Security, Cryptography, Machine Learning and Data Related Problem. 
 I love to work with new technologies and playing with Open Source Tools and Security Related Stuff.🤖
-Moreover, I am a Senior Software Engineer in Grameenphone and prio to that i wroked with touch and go group , malaysia(onsite) as a Backend Engineer, and woked with BJIT Group ,and brac it as a software engineer , in total i have about 5+ years of development experience.
+Moreover, I am a Senior Software Engineer in Grameenphone and prior to that i worked with touch and go group , malaysia(onsite) as a Backend Engineer, and worked with BJIT Group ,and also with brac IT as a software engineer, in total i have about 5+ years of development experience.
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=CodingManiac44&theme=Cyberpunk&show_icons=true" alt="saidur rahman" />
